@@ -55,6 +55,7 @@
       <th>⭐ Interest</th>
       <th>✔ Completed</th>
       <th>📖 README</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -64,6 +65,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-purple?style=flat" /></td>
       <td>🟡</td>
       <td>🔴</td>
+      <td>Linux Webserv in COBOL</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Learning_COBOL" target="_blank">➡️</a></td>
@@ -71,6 +73,7 @@
       <td><img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /></td>
       <td>🟡</td>
       <td>🔴</td>
+      <td>COBOL, JCL, DB2, TSO/ISPF</td>
     </tr>
   </tbody>
 </table>
@@ -86,6 +89,7 @@
       <th>⭐ Interest</th>
       <th>✔ Completed</th>
       <th>📖 README</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -95,6 +99,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐⭐-yellow?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Fullstack DevOps - Ruby, JS</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Monday-light" target="_blank">➡️</a></td>
@@ -102,6 +107,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-purple?style=flat" /></td>
       <td>🟡</td>
       <td>🔴</td>
+      <td>Fullstack Go Gin HTMX</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Hotel_Reservation_API" target="_blank">➡️</a></td>
@@ -109,6 +115,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-purple?style=flat" /></td>
       <td>🔴</td>
       <td>🔴</td>
+      <td>Backend in Go Fiber</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Template_HTMX_GO" target="_blank">➡️</a></td>
@@ -116,6 +123,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-grey?style=flat" /></td>
       <td>🟡</td>
       <td>🔴</td>
+      <td>Fullstack - HTMX, Go</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Inception" target="_blank">➡️</a></td>
@@ -123,6 +131,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-grey?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>DevOps - Docker</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Test-42-login-api" target="_blank">➡️</a></td>
@@ -130,6 +139,7 @@
       <td><img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /></td>
       <td>🔴</td>
       <td>🔴</td>
+      <td>Go - Login 42</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Repo_DevOps_Nats_Jetstream" target="_blank">➡️</a></td>
@@ -137,9 +147,11 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-purple?style=flat" /></td>
       <td>🟡</td>
       <td>🔴</td>
+      <td>Repo DevOps sur NATS JetStream</td>
     </tr>
   </tbody>
 </table>
+
 
 ---
 
@@ -152,6 +164,7 @@
       <th>⭐ Interest</th>
       <th>✔ Completed</th>
       <th>📖 README</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -161,6 +174,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
       <td>🔴</td>
       <td>🔴</td>
+      <td>Blockchain - Smart Contract?</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/BotSun" target="_blank">➡️</a></td>
@@ -168,6 +182,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Bot Blockchain - Go, JS</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/BotBase" target="_blank">➡️</a></td>
@@ -175,9 +190,11 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Bot telegram & Bot Blockchain (Python)</td>
     </tr>
   </tbody>
 </table>
+
 
 ---
 
@@ -190,6 +207,7 @@
       <th>⭐ Interest</th>
       <th>✔ Completed</th>
       <th>📖 README</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -199,6 +217,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐⭐-yellow?style=flat" /></td>
       <td>🟢</td>
       <td>🟢</td>
+      <td>Server IRC - C++</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Philosopher" target="_blank">➡️</a></td>
@@ -206,6 +225,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-purple?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Threads - C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Minishell" target="_blank">➡️</a></td>
@@ -213,6 +233,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐⭐-yellow?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Shell - C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/C_tips" target="_blank">➡️</a></td>
@@ -220,6 +241,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐⭐-yellow?style=flat" /></td>
       <td>🟡</td>
       <td>🟢</td>
+      <td>C patterns and tips</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Push_Swap" target="_blank">➡️</a></td>
@@ -227,6 +249,7 @@
       <td><img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Algorithmics - C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Pipex" target="_blank">➡️</a></td>
@@ -234,6 +257,7 @@
       <td><img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🟢</td>
+      <td>Pipelines - C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Get_Next_Line" target="_blank">➡️</a></td>
@@ -241,6 +265,7 @@
       <td><img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>File reading - C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/ft_printf" target="_blank">➡️</a></td>
@@ -248,6 +273,7 @@
       <td><img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Custom printf - C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/libft" target="_blank">➡️</a></td>
@@ -255,9 +281,11 @@
       <td><img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>C library</td>
     </tr>
   </tbody>
 </table>
+
 
 ---
 
@@ -270,6 +298,7 @@
       <th>⭐ Interest</th>
       <th>✔ Completed</th>
       <th>📖 README</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -279,6 +308,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐⭐-yellow?style=flat" /></td>
       <td>🔴</td>
       <td>🔴</td>
+      <td>Video Game - Go, Networking</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/42_cursus_miniRT" target="_blank">➡️</a></td>
@@ -286,6 +316,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-purple?style=flat" /></td>
       <td>🟢</td>
       <td>🟢</td>
+      <td>Raytracing engine - C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/cub3d" target="_blank">➡️</a></td>
@@ -293,6 +324,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-purple?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Raycasting - C, Duke Nukem-like</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/FdF" target="_blank">➡️</a></td>
@@ -300,6 +332,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-purple?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Wireframe 3D - C</td>
     </tr>
   </tbody>
 </table>
@@ -315,6 +348,7 @@
       <th>⭐ Interest</th>
       <th>✔ Completed</th>
       <th>📖 README</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -324,6 +358,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
       <td>🔴</td>
       <td>🔴</td>
+      <td>Object-Oriented design patterns</td>
     </tr>
   </tbody>
 </table>
@@ -339,6 +374,7 @@
       <th>⭐ Interest</th>
       <th>✔ Completed</th>
       <th>📖 README</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -348,6 +384,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
       <td>🔴</td>
       <td>🔴</td>
+      <td>Data Science</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Piscine_Python" target="_blank">➡️</a></td>
@@ -355,6 +392,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-purple?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Python - General</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/GO-tips" target="_blank">➡️</a></td>
@@ -362,6 +400,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Go tips and tricks</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/CPP-tips" target="_blank">➡️</a></td>
@@ -369,9 +408,11 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>C++ tips - Beginner</td>
     </tr>
   </tbody>
 </table>
+
 
 ---
 
@@ -384,6 +425,7 @@
       <th>⭐ Interest</th>
       <th>✔ Completed</th>
       <th>📖 README</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -393,6 +435,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-purple?style=flat" /></td>
       <td>🟡</td>
       <td>🔴</td>
+      <td>Fullstack JS - Beginner</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/JAVA-API" target="_blank">➡️</a></td>
@@ -400,6 +443,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Java Spring Boot - Beginner</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/WE_tools" target="_blank">➡️</a></td>
@@ -407,6 +451,7 @@
       <td><img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Fullstack JS - Beginner</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Celine_Frontend" target="_blank">➡️</a></td>
@@ -414,6 +459,7 @@
       <td><img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /></td>
       <td>🔴</td>
       <td>🔴</td>
+      <td>CSS - Static Site - Beginner</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Scraping_Python" target="_blank">➡️</a></td>
@@ -421,6 +467,7 @@
       <td><img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /></td>
       <td>🔴</td>
       <td>🔴</td>
+      <td>Selenium Bot - Python - Beginner</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Rush_Cluedo" target="_blank">➡️</a></td>
@@ -428,6 +475,7 @@
       <td><img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Prolog - Discovery</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/AdventofCode" target="_blank">➡️</a></td>
@@ -435,6 +483,7 @@
       <td><img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
+      <td>Advent of Code challenges</td>
     </tr>
   </tbody>
 </table>
