@@ -37,52 +37,317 @@
     </tr>
   </thead>
   <tbody>
+    <!-- 🔹 Mainframe & COBOL -->
+    <tr style="background-color: #fffacd;">
+      <td colspan="5"><strong>Mainframe & COBOL</strong></td>
+    </tr>
     <tr>
-      <td><a href="https://github.com/user/Webserv_COBOL" target="_blank">➡️</a></td>
+      <td><a href="https://github.com/JeanBaptisteDurand/Webserv_COBOL" target="_blank">➡️</a></td>
       <td>Webserv_COBOL</td>
-      <td>⭐⭐⭐</td>
+      <td style="color: gold;">⭐⭐⭐</td>
       <td>🟢</td>
       <td>🟢</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/user/Learning_COBOL" target="_blank">➡️</a></td>
+      <td><a href="https://github.com/JeanBaptisteDurand/Learning_COBOL" target="_blank">➡️</a></td>
       <td>Learning_COBOL</td>
-      <td>⭐⭐</td>
+      <td style="color: silver;">⭐⭐</td>
       <td>🟢</td>
       <td>🟢</td>
     </tr>
+
+    <!-- 🔹 Développement Backend & DevOps -->
+    <tr style="background-color: #fffacd;">
+      <td colspan="5"><strong>Développement Backend & DevOps</strong></td>
+    </tr>
     <tr>
-      <td><a href="https://github.com/user/ft_transcendence" target="_blank">➡️</a></td>
+      <td><a href="https://github.com/JeanBaptisteDurand/ft_transcendence" target="_blank">➡️</a></td>
       <td>ft_transcendence</td>
-      <td>⭐⭐⭐⭐</td>
+      <td style="color: gold;">⭐⭐⭐</td>
       <td>🟢</td>
       <td>🔴</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/user/Monday-light" target="_blank">➡️</a></td>
+      <td><a href="https://github.com/JeanBaptisteDurand/Monday-light" target="_blank">➡️</a></td>
       <td>Monday-light</td>
-      <td>⭐⭐⭐⭐⭐</td>
+      <td style="color: gold;">⭐⭐⭐</td>
       <td>🔴</td>
+      <td>🟢</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JeanBaptisteDurand/Hotel_Reservation_API" target="_blank">➡️</a></td>
+      <td>Hotel_Reservation_API</td>
+      <td style="color: silver;">⭐⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JeanBaptisteDurand/Template_HTMX_GO" target="_blank">➡️</a></td>
+      <td>Template HTMX GO</td>
+      <td style="color: silver;">⭐</td>
+      <td>🟢</td>
+      <td>🟢</td>
+    </tr>
+    <!-- Newly added in Backend & DevOps -->
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Inception</td>
+      <td style="color: silver;">⭐⭐</td>
+      <td>🟢</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Test-42-login-api</td>
+      <td style="color: silver;">⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Repo DevOps sur NATS JetStream</td>
+      <td style="color: silver;">⭐⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+
+    <!-- 🔹 Blockchain & Bot Trading -->
+    <tr style="background-color: #fffacd;">
+      <td colspan="5"><strong>Blockchain & Bot Trading</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JeanBaptisteDurand/Tokenizer" target="_blank">➡️</a></td>
+      <td>Tokenizer</td>
+      <td style="color: silver;">⭐⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JeanBaptisteDurand/BotSun" target="_blank">➡️</a></td>
+      <td>BotSun</td>
+      <td style="color: gold;">⭐⭐⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <!-- Newly added in Blockchain & Bot Trading -->
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>BotBase</td>
+      <td style="color: silver;">⭐⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+
+    <!-- 🔹 Programmation Bas Niveau & Systèmes -->
+    <tr style="background-color: #fffacd;">
+      <td colspan="5"><strong>Programmation Bas Niveau & Systèmes</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JeanBaptisteDurand/42-cursus-irc" target="_blank">➡️</a></td>
+      <td>42-cursus-irc</td>
+      <td style="color: silver;">⭐⭐</td>
+      <td>🟢</td>
+      <td>🔴</td>
+    </tr>
+    <!-- Newly added in Bas Niveau & Systèmes -->
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Philosopher</td>
+      <td style="color: silver;">⭐⭐</td>
+      <td>🟢</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Minishell</td>
+      <td style="color: gold;">⭐⭐⭐</td>
+      <td>🟢</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>C_tips</td>
+      <td style="color: silver;">⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Push_Swap</td>
+      <td style="color: silver;">⭐⭐</td>
+      <td>🟢</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Pipex</td>
+      <td style="color: silver;">⭐⭐</td>
+      <td>🟢</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Get_Next_Line</td>
+      <td style="color: silver;">⭐</td>
+      <td>🟢</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>ft_printf</td>
+      <td style="color: silver;">⭐</td>
+      <td>🟢</td>
+      <td>🔴</td>
+    </tr>
+
+    <!-- 🔹 Jeux Vidéo & Graphisme -->
+    <tr style="background-color: #fffacd;">
+      <td colspan="5"><strong>Jeux Vidéo & Graphisme</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JeanBaptisteDurand/Zappy" target="_blank">➡️</a></td>
+      <td>Zappy</td>
+      <td style="color: gold;">⭐⭐⭐</td>
+      <td>🟢</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JeanBaptisteDurand/cub3d" target="_blank">➡️</a></td>
+      <td>cub3d</td>
+      <td style="color: silver;">⭐⭐</td>
+      <td>🟢</td>
+      <td>🔴</td>
+    </tr>
+    <!-- Newly added in Jeux Vidéo & Graphisme -->
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>42_cursus_miniRT</td>
+      <td style="color: gold;">⭐⭐⭐</td>
+      <td>🟢</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>FdF</td>
+      <td style="color: silver;">⭐⭐</td>
+      <td>🟢</td>
+      <td>🔴</td>
+    </tr>
+
+    <!-- 🔹 Programmation Orientée Objet & Conception -->
+    <tr style="background-color: #fffacd;">
+      <td colspan="5"><strong>Programmation Orientée Objet & Conception</strong></td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Repo Pattern OO</td>
+      <td style="color: silver;">⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+
+    <!-- 🔹 Apprentissage & Exploration -->
+    <tr style="background-color: #fffacd;">
+      <td colspan="5"><strong>Apprentissage & Exploration</strong></td>
+    </tr>
+    <!-- (Learning_COBOL is already listed above, so skipping duplicate) -->
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Piscine_Data_Science</td>
+      <td style="color: silver;">⭐⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Piscine_Python</td>
+      <td style="color: silver;">⭐⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>GO-tips</td>
+      <td style="color: silver;">⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>CPP-tips</td>
+      <td style="color: silver;">⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+
+    <!-- 🔹 Débutant & Expérimentations -->
+    <tr style="background-color: #fffacd;">
+      <td colspan="5"><strong>Débutant & Expérimentations</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JeanBaptisteDurand/timerv2" target="_blank">➡️</a></td>
+      <td>timerv2</td>
+      <td style="color: silver;">⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JeanBaptisteDurand/JAVA-API" target="_blank">➡️</a></td>
+      <td>JAVA-API</td>
+      <td style="color: silver;">⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <!-- Newly added in Débutant & Expérimentations -->
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>WE_tools</td>
+      <td style="color: silver;">⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Celine_Frontend</td>
+      <td style="color: silver;">⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Scraping Python</td>
+      <td style="color: silver;">⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>Rush_Cluedo</td>
+      <td style="color: silver;">⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="#" target="_blank">➡️</a></td>
+      <td>AdventofCode</td>
+      <td style="color: silver;">⭐</td>
+      <td>🔴</td>
+      <td>🔴</td>
+    </tr>
+
+    <!-- 🔹 Participation Open Source -->
+    <tr style="background-color: #fffacd;">
+      <td colspan="5"><strong>Participation Open Source</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JeanBaptisteDurand/stumpless" target="_blank">➡️</a></td>
+      <td>Forked: Stumpless</td>
+      <td style="color: silver;">⭐</td>
+      <td>🟢</td>
       <td>🟢</td>
     </tr>
   </tbody>
 </table>
-
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-  }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-  }
-  th {
-    background-color: #f4f4f4;
-  }
-</style>
 
 
 ###
