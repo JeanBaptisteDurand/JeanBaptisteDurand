@@ -152,50 +152,6 @@
   </tbody>
 </table>
 
-
----
-
-## 🔹 Blockchain
-<table>
-  <thead>
-    <tr>
-      <th>Go to</th>
-      <th>Repository Name</th>
-      <th>⭐ Interest</th>
-      <th>✔ Completed</th>
-      <th>📖 README</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/JeanBaptisteDurand/Tokenizer" target="_blank">➡️</a></td>
-      <td>Tokenizer</td>
-      <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
-      <td>🔴</td>
-      <td>🔴</td>
-      <td>Token creation on BNB testnet</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/JeanBaptisteDurand/BotSun" target="_blank">➡️</a></td>
-      <td>BotSun</td>
-      <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
-      <td>🟢</td>
-      <td>🔴</td>
-      <td>Bot Blockchain - Go, JS</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/JeanBaptisteDurand/BotBase" target="_blank">➡️</a></td>
-      <td>BotBase</td>
-      <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
-      <td>🟢</td>
-      <td>🔴</td>
-      <td>Bot telegram & Bot Blockchain (Python)</td>
-    </tr>
-  </tbody>
-</table>
-
-
 ---
 
 ## 🔹 Low-Level & Systems Programming
@@ -333,6 +289,48 @@
       <td>🟢</td>
       <td>🔴</td>
       <td>Wireframe 3D - C</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🔹 Blockchain
+<table>
+  <thead>
+    <tr>
+      <th>Go to</th>
+      <th>Repository Name</th>
+      <th>⭐ Interest</th>
+      <th>✔ Completed</th>
+      <th>📖 README</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/JeanBaptisteDurand/Tokenizer" target="_blank">➡️</a></td>
+      <td>Tokenizer</td>
+      <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
+      <td>🔴</td>
+      <td>🔴</td>
+      <td>Token creation on BNB testnet</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JeanBaptisteDurand/BotSun" target="_blank">➡️</a></td>
+      <td>BotSun</td>
+      <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
+      <td>🟢</td>
+      <td>🔴</td>
+      <td>Bot Blockchain - Go, JS</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JeanBaptisteDurand/BotBase" target="_blank">➡️</a></td>
+      <td>BotBase</td>
+      <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
+      <td>🟢</td>
+      <td>🔴</td>
+      <td>Bot telegram & Bot Blockchain (Python)</td>
     </tr>
   </tbody>
 </table>
