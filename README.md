@@ -174,7 +174,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
       <td>🔴</td>
       <td>🔴</td>
-      <td>Blockchain - Smart Contract?</td>
+      <td>Token creation on BNB testnet</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/BotSun" target="_blank">➡️</a></td>
@@ -257,7 +257,7 @@
       <td><img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🟢</td>
-      <td>Pipelines - C</td>
+      <td>Pipe linux - C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/Get_Next_Line" target="_blank">➡️</a></td>
@@ -308,7 +308,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐⭐-yellow?style=flat" /></td>
       <td>🔴</td>
       <td>🔴</td>
-      <td>Video Game - Go, Networking</td>
+      <td>Simulation of a population - Go, Networking</td>
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/42_cursus_miniRT" target="_blank">➡️</a></td>
@@ -358,7 +358,7 @@
       <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
       <td>🔴</td>
       <td>🔴</td>
-      <td>Object-Oriented design patterns</td>
+      <td>Object-Oriented design patterns in Spring Boot</td>
     </tr>
   </tbody>
 </table>
@@ -404,11 +404,11 @@
     </tr>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/CPP-tips" target="_blank">➡️</a></td>
-      <td>CPP-tips</td>
+      <td>Piscine CPP</td>
       <td><img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /></td>
       <td>🟢</td>
       <td>🔴</td>
-      <td>C++ tips - Beginner</td>
+      <td>C++ - Beginner</td>
     </tr>
   </tbody>
 </table>
@@ -499,15 +499,17 @@
       <th>⭐ Interest</th>
       <th>✔ Completed</th>
       <th>📖 README</th>
+      <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/JeanBaptisteDurand/stumpless" target="_blank">➡️</a></td>
-      <td>Forked: stumpless</td>
+      <td>stumpless</td>
       <td><img src="https://img.shields.io/badge/⭐☆☆-purple?style=flat" /></td>
       <td>🟢</td>
       <td>🟢</td>
+      <td>A cross platform C logging lib</td>
     </tr>
   </tbody>
 </table>
