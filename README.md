@@ -35,7 +35,7 @@
 ### 🔹 Legend
 
 - 🟢 **Project finished**
-- 🟡 **Project nearing completion**
+- 🟡 **Project near completion**
 - 🔴 **Project not finished**
 
 **Interest rating:**
