@@ -1,3 +1,8 @@
+<img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" />
+<img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" />
+<img src="https://img.shields.io/badge/⭐⭐⭐-yellow?style=flat" />
+
+
 <p align="left">
 🔹 Mainframe & COBOL<br>
 Webserv_COBOL (Linux Webserv in COBOL)<br>
