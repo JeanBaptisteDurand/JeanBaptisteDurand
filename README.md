@@ -40,7 +40,7 @@
 
 **Interest rating:**
 - <img src="https://img.shields.io/badge/⭐⭐⭐-yellow?style=flat" /> **My best projects so far**
-- <img src="https://img.shields.io/badge/⭐⭐☆-purple?style=flat" /> **Good project with extra effort**
+- <img src="https://img.shields.io/badge/⭐⭐☆-purple?style=flat" /> **Good project with extra care**
 - <img src="https://img.shields.io/badge/⭐⭐☆-gray?style=flat" /> **Good project**
 - <img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" /> **Small project**
 
