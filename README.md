@@ -477,6 +477,11 @@
   </tbody>
 </table>
 
+<img src="https://img.shields.io/badge/⭐☆☆-gray?style=flat" />
+<img src="https://img.shields.io/badge/⭐⭐☆-gold?style=flat" />
+<img src="https://img.shields.io/badge/⭐⭐⭐-yellow?style=flat" />
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JeanBaptisteDurand&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JeanBaptisteDurand&theme=radical&hide_border=false)<br/>
