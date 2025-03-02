@@ -26,6 +26,67 @@
 
 ###
 
+<table>
+  <thead>
+    <tr>
+      <th>Go to</th>
+      <th>Nom du Repo</th>
+      <th>⭐ Intérêt</th>
+      <th>✔ Projet Terminé</th>
+      <th>📖 README</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/user/Webserv_COBOL" target="_blank">➡️</a></td>
+      <td>Webserv_COBOL</td>
+      <td>⭐⭐⭐</td>
+      <td>🟢</td>
+      <td>🟢</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/user/Learning_COBOL" target="_blank">➡️</a></td>
+      <td>Learning_COBOL</td>
+      <td>⭐⭐</td>
+      <td>🟢</td>
+      <td>🟢</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/user/ft_transcendence" target="_blank">➡️</a></td>
+      <td>ft_transcendence</td>
+      <td>⭐⭐⭐⭐</td>
+      <td>🟢</td>
+      <td>🔴</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/user/Monday-light" target="_blank">➡️</a></td>
+      <td>Monday-light</td>
+      <td>⭐⭐⭐⭐⭐</td>
+      <td>🔴</td>
+      <td>🟢</td>
+    </tr>
+  </tbody>
+</table>
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f4f4f4;
+  }
+</style>
+
+
+###
+
 <p align="left">
 🔹 Mainframe & COBOL<br>
 Webserv_COBOL (Linux Webserv in COBOL)<br>
