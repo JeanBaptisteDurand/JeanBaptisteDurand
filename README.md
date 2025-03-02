@@ -26,6 +26,68 @@
 
 ###
 
-<p align="left">🔹 Développement Backend & DevOps<br>ft_transcendence (Fullstack DevOps - Ruby, JS)<br>Monday-light (Fullstack Go Gin HTMX)<br>Template HTMX GO (Fullstack - HTMX, Go)<br>Inception (DevOps - Docker)<br>Test-42-login-api (Go - Login 42)<br>Repo DevOps sur NATS JetStream<br><br>🔹 Blockchain & Bot Trading<br>Tokenizer (Blockchain - Smart Contract?)<br>BotSun (Bot Blockchain - Go, JS)<br>BotBase (Base pour Bot Blockchain - Non spécifié)<br><br>🔹 Programmation Bas Niveau & Systèmes<br>42-cursus-irc (Server IRC - C++)<br>Philosopher (Threads - C)<br>Minishell (Shell - C)<br>Push_Swap (Algorithmie - C)<br>Pipex (Pipelines - C)<br>Get_Next_Line (Lecture Fichier - C)<br>ft_printf (Printf Custom - C)<br><br>🔹 Jeux Vidéo & Graphisme<br>Zappy (Jeu Vidéo - Go, Réseau)<br>42_cursus_miniRT (Moteur Raytracing - C)<br>cub3d (Raycasting - C, Duke Nukem-like)<br>FdF (Wireframe 3D - C)<br><br>🔹 Programmation Orientée Objet & Conception<br>Repo Pattern OO<br><br>🔹 Apprentissage & Exploration<br>Learning_COBOL (COBOL - Mainframe)<br>Piscine_Data_Science (Data Science)<br>Piscine_Python (Python - Général)<br>GO-tips (Astuces Go)<br>CPP-tips (Astuces C++ - Débutant)<br><br>🔹 Débutant & Expérimentations<br>timerv2 (Fullstack JS - Débutant)<br>WE_tools (Fullstack JS - Débutant)<br>JAVA-API (Java Spring Boot - Débutant)<br>Celine_Frontend (CSS - Site Statique - Débutant)<br>Scraping Python (Selenium Bot - Python - Débutant)<br><br>🔹 Participation Open Source<br>Forked from goatshriek/stumpless (Librairie C Logging - Perf High)</p>
+<p align="left">
+🔹 Mainframe & COBOL<br>
+Webserv_COBOL (Linux Webserv in COBOL)<br>
+Learning_COBOL (COBOL, JCL, DB2, TSO/ISPF)<br>
+
+🔹 Développement Backend & DevOps<br>
+ft_transcendence (Fullstack DevOps - Ruby, JS)<br>
+Monday-light (Fullstack Go Gin HTMX)<br>
+Hotel_Reservation_API (Backend in Go Fiber)<br>
+Template HTMX GO (Fullstack - HTMX, Go)<br>
+Inception (DevOps - Docker)<br>
+Test-42-login-api (Go - Login 42)<br>
+Repo DevOps sur NATS JetStream<br>
+<br>
+
+🔹 Blockchain & Bot Trading<br>
+Tokenizer (Blockchain - Smart Contract?)<br>
+BotSun (Bot Blockchain - Go, JS)<br>
+BotBase (Bot telegram et Bot Blockchain Python)<br>
+<br>
+
+🔹 Programmation Bas Niveau & Systèmes<br>
+42-cursus-irc (Server IRC - C++)<br>
+Philosopher (Threads - C)<br>
+Minishell (Shell - C)<br>
+C_tips (C pattern and tips)<br>
+Push_Swap (Algorithmie - C)<br>
+Pipex (Pipelines - C)<br>
+Get_Next_Line (Lecture Fichier - C)<br>
+ft_printf (Printf Custom - C)<br>
+<br>
+
+🔹 Jeux Vidéo & Graphisme<br>
+Zappy (Jeu Vidéo - Go, Réseau)<br>
+42_cursus_miniRT (Moteur Raytracing - C)<br>
+cub3d (Raycasting - C, Duke Nukem-like)<br>
+FdF (Wireframe 3D - C)<br>
+<br>
+
+🔹 Programmation Orientée Objet & Conception<br>
+Repo Pattern OO<br>
+<br>
+
+🔹 Apprentissage & Exploration<br>
+Learning_COBOL (COBOL - Mainframe)<br>
+Piscine_Data_Science (Data Science)<br>
+Piscine_Python (Python - Général)<br>
+GO-tips (Astuces Go)<br>
+CPP-tips (Astuces C++ - Débutant)<br>
+<br>
+
+🔹 Débutant & Expérimentations<br>
+timerv2 (Fullstack JS - Débutant)<br>
+WE_tools (Fullstack JS - Débutant)<br>
+JAVA-API (Java Spring Boot - Débutant)<br>
+Celine_Frontend (CSS - Site Statique - Débutant)<br>
+Scraping Python (Selenium Bot - Python - Débutant)<br>
+Rush_Cluedo(Prolog - Decouverte)<br>
+AdventofCode<br>
+<br>
+
+🔹 Participation Open Source<br>
+Forked from goatshriek/stumpless (Librairie C Logging - Perf High)</p>
 
 ###
