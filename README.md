@@ -1,8 +1,17 @@
 # 💫 About Me:
-🎓 Student at 42 Perpignan, common core completed  
-📌 Currently training in Mainframe & COBOL (IBM Z Xplore)  
-🔍 Seeking an internship in Mainframe COBOL  
-💻 Developing in Go, open for freelance opportunities  
+💼 COBOL Developer & Analyst @ AXA France
+🚀 AI DevOps Engineer & Treasurer @42Blockchain_
+
+🏆 MBC 2025 Base Track Winner | 2× Hackathon Winner
+
+💻 Builder of:
+• http://baselens.tech
+• http://suilens.tech
+
+⚙️ Background:
+🎓 42 Perpignan (Common Core completed)
+📌 Specialized in Mainframe & COBOL (IBM Z Xplore)
+
 📩 Contact Me  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:group.jbjd@gmail.com)
 
